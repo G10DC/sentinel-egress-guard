@@ -1,0 +1,10 @@
+{
+  "name": "sentinel",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Continuous runtime guard and egress firewall for AI agents.",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test test/**/*.test.js"
+  }
+}
